@@ -1,0 +1,15 @@
+{
+    "name": "Game.Client.View",
+    "references": [
+        "Game.Client.Model",
+        "Game.Shared"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

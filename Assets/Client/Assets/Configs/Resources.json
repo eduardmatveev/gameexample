@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Type": "Resource",
+    "Name": "Gold",
+    "Icon": "Icons/Gold.png",
+    "AppendPerSecond": 1
+  },
+  {
+    "Type": "Resource",
+    "Name": "Fuel",
+    "Icon": "Icons/Fuel.png",
+    "AppendPerSecond": 4
+  },
+  {
+    "Type": "Resource",
+    "Name": "Metal",
+    "Icon": "Icons/Metal.png",
+    "AppendPerSecond": 2
+  }
+]

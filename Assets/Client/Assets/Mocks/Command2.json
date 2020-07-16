@@ -1,0 +1,8 @@
+﻿{
+  "Type": "UpdateResources",
+  "Resources": {
+    "Fuel": 60,
+    "Metal": 4,
+    "Gold": 40
+  }
+}
